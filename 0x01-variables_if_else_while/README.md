@@ -1,0 +1,1 @@
+A repo dedicated to using various statement types in the C language.
