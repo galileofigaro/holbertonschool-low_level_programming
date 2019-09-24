@@ -1,9 +1,9 @@
 #include "holberton.h"
 
 /**
- *
- *
- *
+ * print_sign - Prints sign of number
+ *@n: Number
+ * Return: zero
  */
 
 int print_sign(int n)
