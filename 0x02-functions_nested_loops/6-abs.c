@@ -2,20 +2,20 @@
 
 /**
  * _abs - absolute value of a number
- *@a: number
- * Return: a
+ *@num: number
+ * Return: num
  */
 
-int _abs(int a)
+int _abs(int num)
 {
 
-	if (a >= 0)
+	if (num >= 0)
 	{
-		return (a);
+		return (num);
 	}
 	else
 	{
-		a = a * -1;
-		return (a);
+		num = num * -1;
+		return (num);
 	}
 }
