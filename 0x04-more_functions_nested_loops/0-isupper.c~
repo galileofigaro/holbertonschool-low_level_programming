@@ -1,0 +1,11 @@
+#include "holberton.h"
+
+/**
+ * _isupper - Checks for uppercase character
+ *@c: character being checked
+ * Return: zero
+ */
+
+int _isupper(int c)
+{
+
