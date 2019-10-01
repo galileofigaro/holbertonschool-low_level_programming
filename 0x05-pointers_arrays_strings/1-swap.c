@@ -9,7 +9,8 @@
 
 void swap_int(int *a, int *b)
 {
+	int copy;
 
-	*a == *b;
-	*b == *a;
+	*a = *b;
+	*b = copy;
 }
