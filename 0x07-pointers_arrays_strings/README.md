@@ -1,0 +1,1 @@
+A repo with further use of pointers, arrays and strings.
