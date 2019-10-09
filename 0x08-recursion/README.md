@@ -1,0 +1,1 @@
+This repo is going to recreate common functions in C, and utilize recursion.
