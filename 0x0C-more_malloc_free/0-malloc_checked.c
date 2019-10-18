@@ -9,12 +9,12 @@
 
 void *malloc_checked(unsigned int b)
 {
-        void *array;
+	void *array;
 
-        array = malloc(b);
+	array = malloc(b);
 
-        if (!array)
-                exit(98);
+	if (!array)
+		exit(98);
 
-        return (array);
+	return (array);
 }
