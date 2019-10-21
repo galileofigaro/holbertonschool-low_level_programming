@@ -1,0 +1,1 @@
+This repo contains several practices with structs and typedef in C.
