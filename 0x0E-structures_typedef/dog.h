@@ -1,11 +1,12 @@
-#ifndef _DOG_H
-#define _DOG_H
+#ifndef DOG_H
+#define DOG_H
 
 /**
  * struct dog - new struct
  *@name: dog name
  *@age: dog years
  *@owner: lucky
+ * Description - Define new struct
  */
 
 struct dog
